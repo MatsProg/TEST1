@@ -15,3 +15,8 @@ Step 3
 You can check it via spider tool in anaconda by typing import tensorflow as tf
 
 		pyinstaller -F <your_script>
+
+cmd admininstrator
+cd C:\Users\MatsProg\Desktop\TEST1
+virtualenv --system-site-packages -p python3 ./venv
+pyinstaller -F overlay1.py
