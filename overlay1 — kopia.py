@@ -35,6 +35,10 @@ class overlay():
 		ex.bits()
 		#self.RPMsound = 5900
 		RPMs = ex.RPM
+		spin = ex.wheelSlip
+		wheelRL = spin[2]
+		wheelRR = spin[3]
+		self.RLiRR = float(wheelRL + wheelRR) /2
 		self.GEARs = ex.GEAR
 		self.tc1 = ex.TC1
 
@@ -58,8 +62,8 @@ class overlay():
 		else:
 			winsound.PlaySound(None, winsound.SND_PURGE)
 
-		klasa.kibord()
-		keyboard.unhook_all()
+		#klasa.kibord()
+		#keyboard.unhook_all()
 
 	def debug1(self):
 		print("RPM = " + str(nowyRPMs))
