@@ -418,7 +418,7 @@ while True:
 			dmgCNT1 = pygame.draw.rect(self._display_surf, (r, g, b), [1110, 220, 30, int(-self.GAS1)])
 			dmgCNT = pygame.draw.rect(self._display_surf, (255, 0, 0), [1109, 19, 33, 203], 1)
 			self.frifrlcolor = min((self.FRiFL*10)*2, 255)
-			print(self.frifrlcolor)
+			#print(self.frifrlcolor)
 			if self.FRiFL < 2:
 				dmgCNT1 = pygame.draw.rect(self._display_surf, (255, 0, 0), [1150, 220, 30, int(-self.BRAKE1)])
 				dmgCNT = pygame.draw.rect(self._display_surf, (255, 0, 0), [1149, 19, 32, 203], 1)
