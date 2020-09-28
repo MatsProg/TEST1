@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89744c87-cbcb-4854-a0cf-79a296182c09" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smieci.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCode0recyclepy" afterDir="false" />
-    </list>
+    <list default="true" id="89744c87-cbcb-4854-a0cf-79a296182c09" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,8 +185,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.START_GRAPHICS" />
       <item itemvalue="Python.overlay1" />
+      <item itemvalue="Python.START_GRAPHICS" />
       <item itemvalue="Python.overlaySPIN (1)" />
       <item itemvalue="Python.testCode0recyclepy" />
       <item itemvalue="Python.testS" />
@@ -230,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595072741560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="up">
+      <created>1601310588590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601310588590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,9 +243,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="0" key="CommitChangelistDialog2" timestamp="1595072736074">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="457" y="0" key="CommitChangelistDialog2" timestamp="1601310587553">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="457" y="0" key="CommitChangelistDialog2/0.-1080.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1601310587553" />
     <state x="457" y="0" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1595072736074" />
     <state width="1887" height="208" key="GridCell.Tab.0.bottom" timestamp="1600618141599">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -267,26 +272,6 @@
     <state width="1887" height="200" key="GridCell.Tab.0.right/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1595181458559" />
     <state width="924" height="202" key="GridCell.Tab.0.right/0.0.1920.1019@0.0.1920.1019" timestamp="1594502441762" />
     <state width="1887" height="208" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1600618141599" />
-    <state width="1887" height="303" key="GridCell.Tab.1.bottom" timestamp="1592330782648">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1887" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1019@0.0.1920.1019" timestamp="1592330782648" />
-    <state width="1887" height="303" key="GridCell.Tab.1.center" timestamp="1592330782648">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1887" height="303" key="GridCell.Tab.1.center/0.0.1920.1019@0.0.1920.1019" timestamp="1592330782648" />
-    <state width="1887" height="303" key="GridCell.Tab.1.left" timestamp="1592330782648">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1887" height="303" key="GridCell.Tab.1.left/0.0.1920.1019@0.0.1920.1019" timestamp="1592330782648" />
-    <state width="1887" height="303" key="GridCell.Tab.1.right" timestamp="1592330782648">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state width="1887" height="303" key="GridCell.Tab.1.right/0.0.1920.1019@0.0.1920.1019" timestamp="1592330782648" />
-    <state x="678" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592593718636">
-      <screen x="0" y="0" width="1920" height="1019" />
-    </state>
-    <state x="678" y="388" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1019@0.0.1920.1019" timestamp="1592593718636" />
     <state x="3" y="-1080" width="1561" height="1014" maximized="true" key="dock-window-1" timestamp="1600625130583">
       <screen x="0" y="-1080" width="1920" height="1050" />
     </state>
